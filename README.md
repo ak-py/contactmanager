@@ -1,3 +1,4 @@
+[![codebeat badge](https://codebeat.co/badges/d4b940ae-58d6-4674-ba87-10c162de943a)](https://codebeat.co/projects/github-com-akshitgupta1996-contactmanager-master)
 # Published at https://akshitgupta1996.github.io/contactmanager/
 <br>
 
